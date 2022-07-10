@@ -1,0 +1,11 @@
+{
+    "name": "cbm___0",
+    "basename": "cbm",
+    "split": 0,
+    "task_type": "binclass",
+    "n_num_features": 5,
+    "n_cat_features": 0,
+    "train_size": 210000,
+    "val_size": 50000,
+    "test_size": 100534
+}
